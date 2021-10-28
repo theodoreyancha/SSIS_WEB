@@ -1,0 +1,30 @@
+body{
+	font-family: Karla;
+	background-color: #2C2F33;
+	color: #FFFFFF;
+}
+#title {
+	color: #3165F8;
+	font-size: 50pt;
+}
+#usernameFld {
+	size: 35pt;
+}
+#usernameTxt {
+	font-size: 30pt;
+}
+
+#passwordFld {
+	size: 35;
+}
+#passwordTxt {
+	font-size: 30pt;
+}
+#loginBtn{
+	background-color: #7289DA;
+	color: #FFFFFF;
+}
+#menu {
+	color: #3165F8;
+	font-size: 60pt;
+}
